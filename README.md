@@ -8,9 +8,9 @@ KTO ROBI CO:
 
 **Część 3:**: Julka Izydorczyk, Dagmara Bednarz
 
-**Część 4:**: 
+**Część 4:**: Błażej Pilarski
 
-**Część 5:**: Błażej Pilarski,Kacper Ząbek
+**Część 5:**: Kacper Ząbek
 
 **Część 6:**: Wojciech Bełkot
 
