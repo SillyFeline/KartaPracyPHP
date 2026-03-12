@@ -4,7 +4,7 @@ KTO ROBI CO:
 
 **Część 1:**: Hanna Pietluch, janosik
 
-**Część 2:**: 
+**Część 2:**: janosik
 
 **Część 3:**: Julka Izydorczyk, Dagmara Bednarz
 
