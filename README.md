@@ -12,7 +12,7 @@ KTO ROBI CO:
 
 **Część 5:**: 
 
-**Część 6:**: 
+**Część 6:**: Wojciech Bełkot
 
 **Część 7:**: Szymon Martinowski
 
