@@ -2,7 +2,7 @@
 
 KTO ROBI CO:
 
-**Część 1:**: Hanna Pietluch, janosik
+**Część 1:**: Hanna Pietluch, Hania Zając, Janosik
 
 **Część 2:**: janosik
 
