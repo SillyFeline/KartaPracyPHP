@@ -6,7 +6,7 @@ KTO ROBI CO:
 
 **Część 2:**: 
 
-**Część 3:**: 
+**Część 3:**: Julka Izydorczyk, Dagmara Bednarz
 
 **Część 4:**: 
 
