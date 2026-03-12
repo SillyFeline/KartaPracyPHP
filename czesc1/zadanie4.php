@@ -8,7 +8,7 @@ $pass = "haselko123";
 
 echo "Hasło zapisane w zmiennej to: " . $pass . "<br>" . "<br>";
 
-    if(mb_strlen($pass) == 8){
+    if(mb_strlen($pass) >= 8){
         echo "Hasło ma conajmniej 8 znaków.";
     }
     else{
