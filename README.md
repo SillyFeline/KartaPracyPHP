@@ -10,7 +10,7 @@ KTO ROBI CO:
 
 **Część 4:**: 
 
-**Część 5:**: 
+**Część 5:**: Błażej Pilarski
 
 **Część 6:**: Wojciech Bełkot
 
