@@ -14,7 +14,7 @@ KTO ROBI CO:
 
 **Część 6:**: 
 
-**Część 7:**: 
+**Część 7:**: Szymon Martinowski
 
 **Część 8:**: Dominik Poziemski
 
